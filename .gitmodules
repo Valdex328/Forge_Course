@@ -1,0 +1,6 @@
+[submodule "FoundryIntro/intro-foundry/lib/forge-std"]
+	path = FoundryIntro/intro-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "FoundryIntro/intro-foundry/lib/solmate"]
+	path = FoundryIntro/intro-foundry/lib/solmate
+	url = https://github.com/rari-capital/solmate
