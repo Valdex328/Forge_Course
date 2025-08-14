@@ -14,3 +14,13 @@ docs/
 .env
 
 .ssh/
+
+.ssh/
+*.pem
+*.key
+
+.bash_history
+.bashrc
+.docker/
+
+
