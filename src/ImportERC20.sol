@@ -17,4 +17,3 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract TestOwnable is Ownable {
     constructor() Ownable(msg.sender) {}
 }
-

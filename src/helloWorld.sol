@@ -1,5 +1,6 @@
 //SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.24;
+
 contract HelloWorld {
     string public greeting;
 
@@ -11,7 +12,7 @@ contract HelloWorld {
         greeting = _greeting;
     }
 
-function getGreeting() public view returns (string memory) {
+    function getGreeting() public view returns (string memory) {
         return greeting;
     }
 }
