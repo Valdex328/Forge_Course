@@ -23,4 +23,24 @@ docs/
 .bashrc
 .docker/
 
+# --- secretos / llaves ---
+.ssh/
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# --- env ---
+.env
+.env.*
+*.env
+
+# --- credenciales / tokens comunes ---
+*secret*
+*secrets*
+*token*
+*apikey*
+*credentials*
 
