@@ -1,0 +1,26 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Env
+.env
+.env.*
+*.env
+
+# Node (si usas)
+node_modules/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Keys / secrets (NUNCA versionar)
+.ssh/
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
